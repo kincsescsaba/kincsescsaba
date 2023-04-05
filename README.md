@@ -1,6 +1,6 @@
 ### Hello there 👋
 
-- 💻 I'm currently working on a Docker utility
+- 💻 I'm currently working on a Docker 🐳 utility
 
 - 📚 I'm currently reading about Domain Driven Design (DDD)
 
