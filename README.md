@@ -18,4 +18,4 @@
 
 - 📫 Reach me via Twitter [@kincsescsaba](https://twitter.com/kincsescsaba)
 
-- 💸 Become a backer (see sponsorship buttons here in GitHub) so that I can go on with the podcast and do open-source work!
+- 🦄 From the September of 2023, I offer [sponsorships](https://github.com/sponsors/kincsescsaba)
