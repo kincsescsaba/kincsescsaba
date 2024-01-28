@@ -18,4 +18,4 @@
 
 - 📫 Reach me via Twitter [@kincsescsaba](https://twitter.com/kincsescsaba)
 
-- 🦄 From the September of 2023, I offer [sponsorships](https://github.com/sponsors/kincsescsaba)
+- 🦄 From 2025, I offer [sponsorships](https://github.com/sponsors/kincsescsaba)
