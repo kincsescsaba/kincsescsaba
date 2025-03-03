@@ -1,10 +1,10 @@
 ### Hello there 👋
 
-- 💻 I'm currently working on a Docker 🐳 utility and Scala tools
+- 💻 I'm currently working on Scala tools
 
 - 📚 I'm currently reading about Domain Driven Design (DDD)
 
-- 🎙 Ask me about my podcast - ping me if you want to appear in Season 2 Prequel!
+- 🎙 Ask me about my podcast
 
 - 🎧 Listen to existing podcast episodes:
   
@@ -18,4 +18,4 @@
 
 - 📫 Reach me via X (Twitter) [@kincsescsaba](https://twitter.com/kincsescsaba)
 
-- 🦄 From 2025, I offer [sponsorships](https://github.com/sponsors/kincsescsaba)
+- 🦄 From 2025H2, I offer [sponsorships](https://github.com/sponsors/kincsescsaba)
