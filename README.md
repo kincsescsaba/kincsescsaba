@@ -17,5 +17,3 @@
   - [Episode Four](https://proscala.com/podcasts/episode-four) and [Episode Five](https://proscala.com/podcasts/episode-five) about architectural design
 
 - 📫 Reach me via X (Twitter) [@kincsescsaba](https://twitter.com/kincsescsaba)
-
-- 🦄 From 2025H2, I offer [sponsorships](https://github.com/sponsors/kincsescsaba)
